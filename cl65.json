@@ -1,0 +1,5 @@
+{
+    "executable": "C:\\DEV\\NES\\LIB\\cc65\\bin\\cl65",
+    "input": "index.s",
+    "params": "--verbose --target nes -o rom.nes"
+}
